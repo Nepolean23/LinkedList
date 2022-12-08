@@ -14,5 +14,8 @@
 //UC_4_LinkedList_InsertionOfNumbers Insert = new UC_4_LinkedList_InsertionOfNumbers();
 //Insert.InsertionOfNumber(2, 30);
 
-UC_5_LinkedList_DeletionOfFirstElement FirstElement = new UC_5_LinkedList_DeletionOfFirstElement();
-FirstElement.DeletionOfFirstElement();
+//UC_5_LinkedList_DeletionOfFirstElement FirstElement = new UC_5_LinkedList_DeletionOfFirstElement();
+//FirstElement.DeletionOfFirstElement();
+
+UC_6_LinkedList_DeletionOfLastElement LastElement = new UC_6_LinkedList_DeletionOfLastElement();
+LastElement.DeletionOfLastElement();
