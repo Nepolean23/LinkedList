@@ -11,5 +11,8 @@
 //UC_3_LinkedList_AppendingOfNumbers_56_30_70 Num = new UC_3_LinkedList_AppendingOfNumbers_56_30_70();
 //Num.Display();
 
-UC_4_LinkedList_InsertionOfNumbers Insert = new UC_4_LinkedList_InsertionOfNumbers();
-Insert.InsertionOfNumber(2, 30);
+//UC_4_LinkedList_InsertionOfNumbers Insert = new UC_4_LinkedList_InsertionOfNumbers();
+//Insert.InsertionOfNumber(2, 30);
+
+UC_5_LinkedList_DeletionOfFirstElement FirstElement = new UC_5_LinkedList_DeletionOfFirstElement();
+FirstElement.DeletionOfFirstElement();
