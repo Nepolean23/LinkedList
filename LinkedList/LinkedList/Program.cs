@@ -28,3 +28,4 @@
 
 UC_9_LinkedList_DeletionOfNewValue value = new UC_9_LinkedList_DeletionOfNewValue();
 value.DeletionOfNewValue(40);
+value.Size();
