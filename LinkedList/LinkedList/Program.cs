@@ -23,5 +23,8 @@
 //UC_7_LinkedList_ToSearchNode Search = new UC_7_LinkedList_ToSearchNode();
 //Search.SearchNode(30);
 
-UC_8_LinkedList_InsertionOfNumbersIn_3rd_Position Newvalue = new UC_8_LinkedList_InsertionOfNumbersIn_3rd_Position();
-Newvalue.InsertionOfValue(3, 40);
+//UC_8_LinkedList_InsertionOfNumbersIn_3rd_Position Newvalue = new UC_8_LinkedList_InsertionOfNumbersIn_3rd_Position();
+//Newvalue.InsertionOfValue(3, 40);
+
+UC_9_LinkedList_DeletionOfNewValue value = new UC_9_LinkedList_DeletionOfNewValue();
+value.DeletionOfNewValue(40);
