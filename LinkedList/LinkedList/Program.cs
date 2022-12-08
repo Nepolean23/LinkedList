@@ -17,5 +17,8 @@
 //UC_5_LinkedList_DeletionOfFirstElement FirstElement = new UC_5_LinkedList_DeletionOfFirstElement();
 //FirstElement.DeletionOfFirstElement();
 
-UC_6_LinkedList_DeletionOfLastElement LastElement = new UC_6_LinkedList_DeletionOfLastElement();
-LastElement.DeletionOfLastElement();
+//UC_6_LinkedList_DeletionOfLastElement LastElement = new UC_6_LinkedList_DeletionOfLastElement();
+//LastElement.DeletionOfLastElement();
+
+UC_7_LinkedList_ToSearchNode Search = new UC_7_LinkedList_ToSearchNode();
+Search.SearchNode(30);
